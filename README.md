@@ -39,11 +39,6 @@ The FreeTubeSite Team :)<br><br>
   Contact Us At Our Website If You Would Like To Donate Another Coin or Altcoin.
   
   Donate BitCoin (BTC)    : 3Amhpt1v3jT5NYV7vdjx8PNUcsH4ccrn79
-  
   Donate LiteCoin (LTC)   : MQTfJk9pxeHXgRj9VPRxJeCp6BqcArCTYd
-  
   Donate LiteDoge (LDOGE) : dFS4fPvHuVvSprrgMYxN7h9eD5oVB9Pa12
   
-  Donate BitCore (BTX)    : 1EqWKtyVqhXH4r9bVwNwvsiZvJekwVvDpH
-  
-  Donate 1337 Elite (1337): LT8Fa5UU7bYEEah6xJKcUhYxFZb1xQi2aM
