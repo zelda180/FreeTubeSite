@@ -2,16 +2,11 @@
 
 OK, I have decided to start with an old copy of the script that I have. I have ran and tested it on my local Linux box and it runs fine (after much tweaking). The script is in beta and good for testing on a live or local LAMP box. I just have to do a few things then it will be ready to upload here.
 
-*My short TODO list (I'll upload before  I do this)*
+*My short TODO list before I upload*
 
-*Add Mobile Support<br>
-*Add HD Support<br>
-*Add Multi Server Support for Mobile & HD Videos<br>
-*Add CoinHive As Captcha Option<br>
-*Add BitCoin As A Payment Option (Hopefully)<br>
 *A Ton of tweaking and adjusting<br>
 
-*Highlights*
+<B>*Highlights*</B>
 
 *Multi-Server Support (For uploaded videos and thumbs)<br>
 *Lighttpd and Nginx Media server support<br>
@@ -27,12 +22,19 @@ OK, I have decided to start with an old copy of the script that I have. I have r
 *Communicate with members by private mail or email<br>
 *It IS FREE & 100% OPEN SOURCE, Anyone can contribute<br>
 
+<B>*Minimum Requierments*</B>
+
+*A LAMP Linux Server (made and tested on Ubuntu server environment)<br>
+*PHP 7.1<br>
+*MYSQL 5.6.37<br>
+*Apache 2.4.27<br>
+
 
 *Description*
 
-FreeTubeSite is a free and open source video sharing site ( YouTube Clone Script ). With many advanced features such as, Mobile Support (Soon), HD Video Support(Soon), Muti Server Support, Paid/Free Membership Support and more. You are free to use and modify this script as you wish for commercial and non commercial use, within the GNU v3.0 (General Public License). We just ask that you keep our donation links and credits unedited unless you have donated to the FreeTubeSite  project, by BitCoin, altcoin or you can contribute your code to our GitHub project. Then you may remove our links but we ask that you leave our FreeTubeSite bottom links so that others may find and/or contribute to this project to benefit others too. Thank You, 
+FreeTubeSite is a free and open source video sharing site ( YouTube Clone Script ). With many advanced features such as, Mobile Support (Soon), HD Video Support(Soon), Muti Server Support, Paid/Free Membership Support and more. You are free to use and modify this script as you wish for commercial and non commercial use, within the GNU v3.0 (General Public License). We just ask that you keep our donation links and credits unedited unless you have donated to the FreeTubeSite project, by BitCoin, altcoin or you can contribute your code to our GitHub project. Then you may remove our links but we ask that you leave our FreeTubeSite bottom links so that others may find and/or contribute to this project to benefit others too. Thank You, 
 
-The FreeTubeSite Team :)<br><br>
+The FreeTubeSite Team ;)<br><br>
 
 
   Feel Free To Donate Any Amount Of Digital Coins To The Addresses Below. Please 
