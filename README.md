@@ -22,17 +22,19 @@ OK, I have decided to start with an old copy of the script that I have. I have r
 *Communicate with members by private mail or email<br>
 *It IS FREE & 100% OPEN SOURCE, Anyone can contribute<br>
 
-<B>*Minimum Requierments*</B>
+<B>*Basic Requierments*</B>
 
 *A LAMP Linux Server (made and tested on Ubuntu server environment)<br>
 *PHP 7.1<br>
 *MYSQL 5.6.37<br>
 *Apache 2.4.27<br>
 
+More details on our wiki below
+https://github.com/zelda180/FreeTubeSite/wiki/Requirements
 
 *Description*
 
-FreeTubeSite is a free and open source video sharing site ( YouTube Clone Script ). With many advanced features such as, Mobile Support (Soon), HD Video Support(Soon), Muti Server Support, Paid/Free Membership Support and more. You are free to use and modify this script as you wish for commercial and non commercial use, within the GNU v3.0 (General Public License). We just ask that you keep our donation links and credits unedited unless you have donated to the FreeTubeSite project, by BitCoin, altcoin or you can contribute your code to our GitHub project. Then you may remove our links but we ask that you leave our FreeTubeSite bottom links so that others may find and/or contribute to this project to benefit others too. Thank You, 
+FreeTubeSite is a free and open source video sharing site ( YouTube Clone Script ). With many advanced features such as, Mobile Support, HD Video Support, Muti Server Support, Your Watermark On Videos, Paid/Free Membership Support and more. You are free to use and modify this script as you wish for commercial and non commercial use, within the GNU v3.0 (General Public License). We just ask that you keep our donation links and credits unedited unless you have donated to the FreeTubeSite project, by BitCoin, altcoin or you can contribute your code to our GitHub project. Then you may remove our links but we ask that you leave our FreeTubeSite bottom links so that others may find and/or contribute to this project to benefit others too. Thank You, 
 
 The FreeTubeSite Team ;)<br><br>
 
