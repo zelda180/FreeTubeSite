@@ -1,0 +1,18 @@
+===========================================
+FREETUBESITE INSTALLATION
+===========================================
+
+You can find FreeTubeSite Installation Instructions at
+
+https://github.com/zelda180/FreeTubeSite/wiki/Install
+
+===========================================
+IMPORTANT NOTE
+===========================================
+
+FreeTubeSite YouTube clone has special requirements as you can see in
+
+https://github.com/zelda180/FreeTubeSite/wiki/Requirements
+
+You can install FreeTubeSite youtube clone requirements on your server if you have a dedicated server or a linux VPS.
+

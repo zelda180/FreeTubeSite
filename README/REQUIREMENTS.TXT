@@ -1,0 +1,38 @@
+UPDATED Requirementd are always at: https://github.com/zelda180/FreeTubeSite/wiki/Requirements
+
+~FreeTubeSite Requirements
+PHP 7.1.8 or higher
+MySQL (Version 5.6.37 or higher)
+MySQLi (http://www.php.net/manual/en/book.mysqli.php) Comes With Most PHP Installs
+GD Library 2 or higher Comes With Most PHP Installs
+mbstring (http://in.php.net/mbstring) Comes With Most PHP Installs
+curl Comes With Most PHP Installs
+Linux Server (Cent OS/RHEL/Ubuntu etc.) Ubuntu Preferred WINDOWS Not Supported
+Apache Web Server NIX Not Supported
+.htaccess support Comes With Most Apache Installs
+mplayer + Mencoder (http://www.mplayerhq.hu/design7/dload.html) Optional But Recommended
+
+~~** FFMPEG Files are included with FreeTubeSite install files. If they do not work you (or your server admin) may need to install them on your server.**~~
+
+FFMPEG with h264 support (http://ffmpeg.org)
+qt-faststart (http://ffmpeg.org/doxygen/trunk/qt-faststart_8c_source.html) May Be Installed With FFMPEG
+
+
+~PHP Configuration Most PHP Installs Do Not Need To Be Changed And Will Work Fine
+safe_mode = off
+register_globals = off
+open_basedir = (no value)
+output_buffering = on
+upload_max_filesize = 200M (or more)
+post_max_size = 200M (or more)
+max_execution_time = 6000 (or more)
+max_input_time = 6000 (or more)
+memory_limit = 128M (or more)
+display_errors = On
+file_uploads = On
+session.gc_maxlifetime = 14000 (or more)
+
+~Web Server
+You must have a VPS OR Dedicated Server with Linux. For small/test sites, Some shared hosting may work IF the requirements above are installed AND you can change the PHP settings.
+Bare LAMP Linux server with FFMPEG & mplayer + Mencoder works fine.
+Cpanel is optional and works fine.

@@ -1,10 +1,12 @@
 # FreeTubeSite
 
-OK, I have decided to start with an old copy of the script that I have. I have ran and tested it on my local Linux box and it runs fine (after much tweaking). The script is in beta and good for testing on a live or local LAMP box. I just have to do a few things then it will be ready to upload here.
+ <B>****THE SCRIPT IS IN ALPHA IT MAY NOT BE FULLY READY FOR A PRODUCTION SERVER, THEREFOR IS FOR TESTING ENVIRONMENTS ONLY. I have ran and tested it on my local Linux box however I feel more testing needs to be done along with some more tweaks BEFORE I feel comfortable with releasing it to an production server. You can use it on your live public server AT YOUR OWN RISK. I AND ALL DEVELOPERS OF THIS SCRIPT ARE NOT RESPONSIBLE IF THE SCRIPT DOSE NOT PERFORM AS INTENDED.****</B>
 
-*My short TODO list before I upload*
+Hi Folks!,
 
-*A Ton of tweaking and adjusting<br>
+ After years of development I have decided to finally upload the FreeTubeSite Video Script to the public. I still have a few things on my todo list to polish the site up and I'll be adding BitCoin as a payment, HD video support, light/dark themes, and much more.... 
+ 
+  I also plan on making a lighter version of this script that dose not requier javascript and other features so that people with poor internet or on mobile devices will have faster loading pages. 
 
 <B>*Highlights*</B>
 
@@ -22,7 +24,7 @@ OK, I have decided to start with an old copy of the script that I have. I have r
 *Communicate with members by private mail or email<br>
 *It IS FREE & 100% OPEN SOURCE, Anyone can contribute<br>
 
-<B>*Basic Requierments*</B>
+<B>*Basic Requirements*</B>
 
 *A LAMP Linux Server (made and tested on Ubuntu server environment)<br>
 *PHP 7.1<br>
@@ -34,7 +36,7 @@ https://github.com/zelda180/FreeTubeSite/wiki/Requirements
 
 *Description*
 
-FreeTubeSite is a free and open source video sharing site ( YouTube Clone Script ). With many advanced features such as, Mobile Support, HD Video Support, Muti Server Support, Your Watermark On Videos, Paid/Free Membership Support and more. You are free to use and modify this script as you wish for commercial and non commercial use, within the GNU v3.0 (General Public License). We just ask that you keep our donation links and credits unedited unless you have donated to the FreeTubeSite project, by BitCoin, altcoin or you can contribute your code to our GitHub project. Then you may remove our links but we ask that you leave our FreeTubeSite bottom links so that others may find and/or contribute to this project to benefit others too. Thank You, 
+FreeTubeSite is a free and open source video sharing site ( YouTube Clone Script ). With many advanced features such as, Mobile Support, HD Video Support, Multi Server Support, Your Watermark On Videos, Paid/Free Membership Support and more. You are free to use and modify this script as you wish for commercial and non commercial use, within the GNU v3.0 (General Public License). We just ask that you keep our donation links and credits unedited unless you have donated to the FreeTubeSite project, by BitCoin, LiteCoin, Monero, Altcoin or you can contribute your code to our GitHub project. Then you may remove our links but we ask that you leave our FreeTubeSite bottom links so that others may find and/or contribute to this project to benefit others too. Thank You, 
 
 The FreeTubeSite Team ;)<br><br>
 
