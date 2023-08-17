@@ -14,4 +14,4 @@ currently being supported with security updates.
 
 Just open an issue and the security issue will be addressed ASAP. Thanks
 
-~The FreeTubeSite Team~
+-The FreeTubeSite Team-
